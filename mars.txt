@@ -1,2 +1,3 @@
 love mars
-Just keep adding thing on the mars.txt file
+add third line
+gui thing
